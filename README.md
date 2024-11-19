@@ -49,7 +49,7 @@ ii)	Create Schematic Cell view.
 	Click Check and Save button
 
 
-![380368713-08a8f278-00e2-44d9-8420-a3fcf0586a7e](https://github.com/user-attachments/assets/dad4b4bd-bb2e-4c17-aa3c-7eb8deebdecd)
+![Screenshot 2024-11-17 140917](https://github.com/user-attachments/assets/4079489a-812c-4f2f-9c71-51ea2b4987e4)
 
 
  
@@ -67,8 +67,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- 
-![380368730-dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9](https://github.com/user-attachments/assets/3a011041-974c-4611-893d-d96e50c4385c)
+![Screenshot 2024-11-17 141419](https://github.com/user-attachments/assets/43b78dec-6aff-4521-999f-381c1feb5998)
 
 
 
@@ -82,10 +81,11 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![386571138-b8926550-71d4-422e-9bc3-68f2414c80c1](https://github.com/user-attachments/assets/2ad42e27-d569-4e43-83ad-f9781d63b6bf)
+
+![Screenshot 2024-11-17 140758](https://github.com/user-attachments/assets/5cb1ebf6-93ee-46a7-a376-3299f98e52d6)
 
 
- 
+
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
@@ -96,12 +96,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![380368783-3f603cf1-7394-4561-ae07-fbe55615e8be](https://github.com/user-attachments/assets/a25a0c3a-4e80-4251-a0b8-fbd602f227f7)
+![Screenshot 2024-11-17 141515](https://github.com/user-attachments/assets/363b1e3a-0831-4142-a71a-25d68109b3a3)
+
 
 
 For Transient Analysis Settings and Output
  
-![380368784-384f880f-a1e4-4afa-8302-d7667c2f535b](https://github.com/user-attachments/assets/896226f6-c07c-4e4d-be2e-61498822ad37)
+![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
 
 
  
